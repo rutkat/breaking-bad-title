@@ -6,6 +6,8 @@ Generate the TV show title using period table of elements.
 
 A website build with CSS, Vite, and Javascript.
 
+![screenshot](screenshot.jpg)
+
 ## Getting Started
 
 ### Installing
